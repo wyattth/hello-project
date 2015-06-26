@@ -41,7 +41,7 @@
 		E9B584DE1B3DCC0900E8C79C = {
 			isa = PBXGroup;
 			children = (
-				E9B584E91B3DCC0900E8C79C /* Hello Project */,
+				E9B584E91B3DCC0900E8C79C /* Hola Project */,
 				E9B584E81B3DCC0900E8C79C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,11 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E9B584E91B3DCC0900E8C79C /* Hello Project */ = {
+		E9B584E91B3DCC0900E8C79C /* Hola Project */ = {
 			isa = PBXGroup;
 			children = (
 				E9B584EA1B3DCC0900E8C79C /* main.cpp */,
 			);
+			name = "Hola Project";
 			path = "Hello Project";
 			sourceTree = "<group>";
 		};
